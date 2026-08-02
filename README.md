@@ -135,3 +135,13 @@ Y el archivo donde todo se consolida, el libro de Excel que contiene los 3 dashb
 
 ## 👩‍💻Autor
 Jessica Saraí Martinez Galicia
+
+## 🔑Key Skils Demonstrated
+- Data Cleaning & Transformation (Power Query)
+- Dimensional Modeling (Star Schema)
+- Data Modeling (Power Pivot)
+- DAX Measures & KPIs
+- Interactive Dashboard Desing
+- Excel VBA Automation
+- Business Intelligence Reporting
+- Data Storytelling
