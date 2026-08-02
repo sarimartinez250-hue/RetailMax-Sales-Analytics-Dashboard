@@ -124,7 +124,14 @@ La carpeta images contiene las capturas de los 3 dashboards presentados, el borr
 Y el archivo donde todo se consolida, el libro de Excel que contiene los 3 dashboards, una hoja de introducción, paneles de control para navegar por el archivo y exportar a PDF.
 
 ## 📊Dashboards imágenes
-- RetailMax S.A. - Exectuive Overview
-![Dashboard].(RETAILMAX_S.A.
+- RetailMax S.A. - Exectuive Overview Dashboard
+![Dashboard].(RETAILMAX_S.A./images/ExecutiveOverviewDash.png)
+
+- RetailMax S.A. - Sales Performance Dashboard
+![Dashboard].(RETAILMAX_S.A./images/SalesPerformanceDash.png)
+
+- RetailMax S.A. - Returns Analysis
+![Dashboard].(RETAILMAX_S.A./images/ReturnsAnalysisDash.png)
+
 ## 👩‍💻Autor
 Jessica Saraí Martinez Galicia
