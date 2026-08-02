@@ -1,0 +1,46 @@
+﻿StoreID,StoreName,CountryCode,Country,City,StoreFormat,OpeningDate
+S1001,RetailMax San Salvador Mall,SV,El Salvador,San Salvador,Mall,2019-04-02
+S1002,RetailMax San Salvador Centro,SV,El Salvador,San Salvador,Centro,2018-04-13
+S1003,RetailMax San Salvador Express,SV,El Salvador,San Salvador,Express,2021-01-31
+S1004,RetailMax Santa Ana Mall,SV,El Salvador,Santa Ana,Mall,2020-09-30
+S1005,RetailMax Santa Ana Centro,SV,El Salvador,Santa Ana,Centro,2020-07-03
+S1006,RetailMax Santa Ana Express,SV,El Salvador,Santa Ana,Express,2019-07-26
+S1007,RetailMax San Miguel Mall,SV,El Salvador,San Miguel,Mall,2019-02-24
+S1008,RetailMax San Miguel Centro,SV,El Salvador,San Miguel,Centro,2024-02-12
+S1009,RetailMax San Miguel Express,SV,El Salvador,San Miguel,Express,2018-12-23
+S1010,RetailMax Guatemala City Mall,GT,Guatemala,Guatemala City,Mall,2024-08-15
+S1011,RetailMax Guatemala City Centro,GT,Guatemala,Guatemala City,Centro,2022-09-25
+S1012,RetailMax Guatemala City Express,GT,Guatemala,Guatemala City,Express,2018-05-11
+S1013,RetailMax Quetzaltenango Mall,GT,Guatemala,Quetzaltenango,Mall,2018-05-03
+S1014,RetailMax Quetzaltenango Centro,GT,Guatemala,Quetzaltenango,Centro,2019-01-19
+S1015,RetailMax Quetzaltenango Express,GT,Guatemala,Quetzaltenango,Express,2020-06-14
+S1016,RetailMax Escuintla Mall,GT,Guatemala,Escuintla,Mall,2020-08-10
+S1017,RetailMax Escuintla Centro,GT,Guatemala,Escuintla,Centro,2023-09-01
+S1018,RetailMax Escuintla Express,GT,Guatemala,Escuintla,Express,2024-10-01
+S1019,RetailMax Tegucigalpa Mall,HN,Honduras,Tegucigalpa,Mall,2018-04-19
+S1020,RetailMax Tegucigalpa Centro,HN,Honduras,Tegucigalpa,Centro,2024-04-17
+S1021,RetailMax Tegucigalpa Express,HN,Honduras,Tegucigalpa,Express,2020-03-25
+S1022,RetailMax San Pedro Sula Mall,HN,Honduras,San Pedro Sula,Mall,2024-02-11
+S1023,RetailMax San Pedro Sula Centro,HN,Honduras,San Pedro Sula,Centro,2022-09-15
+S1024,RetailMax San Pedro Sula Express,HN,Honduras,San Pedro Sula,Express,2020-06-21
+S1025,RetailMax La Ceiba Mall,HN,Honduras,La Ceiba,Mall,2023-01-14
+S1026,RetailMax La Ceiba Centro,HN,Honduras,La Ceiba,Centro,2024-08-10
+S1027,RetailMax La Ceiba Express,HN,Honduras,La Ceiba,Express,2021-02-13
+S1028,RetailMax Managua Mall,NI,Nicaragua,Managua,Mall,2018-01-27
+S1029,RetailMax Managua Centro,NI,Nicaragua,Managua,Centro,2019-10-16
+S1030,RetailMax Managua Express,NI,Nicaragua,Managua,Express,2022-09-28
+S1031,RetailMax León Mall,NI,Nicaragua,León,Mall,2021-10-25
+S1032,RetailMax León Centro,NI,Nicaragua,León,Centro,2021-02-12
+S1033,RetailMax León Express,NI,Nicaragua,León,Express,2019-09-29
+S1034,RetailMax Masaya Mall,NI,Nicaragua,Masaya,Mall,2020-05-31
+S1035,RetailMax Masaya Centro,NI,Nicaragua,Masaya,Centro,2021-10-10
+S1036,RetailMax Masaya Express,NI,Nicaragua,Masaya,Express,2019-02-23
+S1037,RetailMax San José Mall,CR,Costa Rica,San José,Mall,2019-01-15
+S1038,RetailMax San José Centro,CR,Costa Rica,San José,Centro,2022-04-06
+S1039,RetailMax San José Express,CR,Costa Rica,San José,Express,2019-02-01
+S1040,RetailMax Alajuela Mall,CR,Costa Rica,Alajuela,Mall,2022-01-10
+S1041,RetailMax Alajuela Centro,CR,Costa Rica,Alajuela,Centro,2021-11-09
+S1042,RetailMax Alajuela Express,CR,Costa Rica,Alajuela,Express,2024-10-08
+S1043,RetailMax Cartago Mall,CR,Costa Rica,Cartago,Mall,2020-12-19
+S1044,RetailMax Cartago Centro,CR,Costa Rica,Cartago,Centro,2018-06-27
+S1045,RetailMax Cartago Express,CR,Costa Rica,Cartago,Express,2023-02-25

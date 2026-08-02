@@ -1,0 +1,101 @@
+﻿EmployeeID,EmployeeName,Role,StoreID,HireDate
+E0001,Empleado 001,Gerente de Tienda,S1014,2023-02-01
+E0002,Empleado 002,Supervisor,S1014,2024-06-14
+E0003,Empleado 003,Supervisor,S1032,2020-02-07
+E0004,Empleado 004,Analista Comercial,S1031,2024-12-05
+E0005,Empleado 005,Gerente de Tienda,S1029,2021-06-28
+E0006,Empleado 006,Vendedor,S1033,2022-05-25
+E0007,Empleado 007,Analista Comercial,S1042,2019-03-07
+E0008,Empleado 008,Supervisor,S1030,2018-02-28
+E0009,Empleado 009,Vendedor,S1002,2018-03-03
+E0010,Empleado 010,Gerente de Tienda,S1039,2022-03-04
+E0011,Empleado 011,Gerente de Tienda,S1040,2024-02-22
+E0012,Empleado 012,Gerente de Tienda,S1016,2019-05-14
+E0013,Empleado 013,Supervisor,S1005,2019-08-14
+E0014,Empleado 014,Analista Comercial,S1012,2024-07-12
+E0015,Empleado 015,Analista Comercial,S1034,2018-04-25
+E0016,Empleado 016,Analista Comercial,S1011,2021-06-30
+E0017,Empleado 017,Vendedor,S1002,2020-09-13
+E0018,Empleado 018,Analista Comercial,S1004,2019-01-18
+E0019,Empleado 019,Supervisor,S1030,2024-08-26
+E0020,Empleado 020,Supervisor,S1041,2022-12-18
+E0021,Empleado 021,Gerente de Tienda,S1018,2019-11-19
+E0022,Empleado 022,Gerente de Tienda,S1031,2019-08-04
+E0023,Empleado 023,Analista Comercial,S1027,2020-09-28
+E0024,Empleado 024,Vendedor,S1032,2020-09-04
+E0025,Empleado 025,Analista Comercial,S1003,2021-01-25
+E0026,Empleado 026,Gerente de Tienda,S1029,2024-02-08
+E0027,Empleado 027,Supervisor,S1022,2021-03-24
+E0028,Empleado 028,Vendedor,S1024,2023-08-22
+E0029,Empleado 029,Analista Comercial,S1040,2025-05-16
+E0030,Empleado 030,Vendedor,S1015,2021-12-20
+E0031,Empleado 031,Vendedor,S1018,2021-11-07
+E0032,Empleado 032,Vendedor,S1025,2021-11-10
+E0033,Empleado 033,Gerente de Tienda,S1041,2019-01-07
+E0034,Empleado 034,Vendedor,S1030,2018-02-21
+E0035,Empleado 035,Vendedor,S1003,2024-05-16
+E0036,Empleado 036,Supervisor,S1034,2021-10-22
+E0037,Empleado 037,Supervisor,S1012,2018-12-16
+E0038,Empleado 038,Gerente de Tienda,S1001,2025-01-06
+E0039,Empleado 039,Analista Comercial,S1031,2022-08-20
+E0040,Empleado 040,Gerente de Tienda,S1043,2024-09-17
+E0041,Empleado 041,Analista Comercial,S1030,2023-10-29
+E0042,Empleado 042,Gerente de Tienda,S1013,2022-11-26
+E0043,Empleado 043,Vendedor,S1011,2021-12-26
+E0044,Empleado 044,Analista Comercial,S1030,2021-04-29
+E0045,Empleado 045,Analista Comercial,S1023,2021-10-30
+E0046,Empleado 046,Gerente de Tienda,S1017,2018-07-10
+E0047,Empleado 047,Gerente de Tienda,S1040,2022-07-16
+E0048,Empleado 048,Vendedor,S1029,2025-02-03
+E0049,Empleado 049,Vendedor,S1019,2019-04-21
+E0050,Empleado 050,Vendedor,S1043,2025-02-10
+E0051,Empleado 051,Supervisor,S1001,2020-03-02
+E0052,Empleado 052,Analista Comercial,S1045,2021-02-23
+E0053,Empleado 053,Gerente de Tienda,S1040,2020-08-03
+E0054,Empleado 054,Vendedor,S1035,2021-10-10
+E0055,Empleado 055,Vendedor,S1014,2021-02-18
+E0056,Empleado 056,Analista Comercial,S1005,2018-10-01
+E0057,Empleado 057,Analista Comercial,S1038,2021-11-10
+E0058,Empleado 058,Supervisor,S1044,2025-07-08
+E0059,Empleado 059,Gerente de Tienda,S1016,2021-01-20
+E0060,Empleado 060,Analista Comercial,S1004,2024-02-22
+E0061,Empleado 061,Analista Comercial,S1042,2020-01-23
+E0062,Empleado 062,Vendedor,S1004,2022-12-05
+E0063,Empleado 063,Analista Comercial,S1013,2018-04-21
+E0064,Empleado 064,Supervisor,S1019,2018-03-15
+E0065,Empleado 065,Analista Comercial,S1044,2024-02-15
+E0066,Empleado 066,Gerente de Tienda,S1022,2018-08-31
+E0067,Empleado 067,Supervisor,S1030,2018-12-09
+E0068,Empleado 068,Supervisor,S1036,2022-01-21
+E0069,Empleado 069,Supervisor,S1040,2022-10-31
+E0070,Empleado 070,Vendedor,S1018,2020-11-07
+E0071,Empleado 071,Vendedor,S1022,2024-03-02
+E0072,Empleado 072,Supervisor,S1004,2021-12-02
+E0073,Empleado 073,Analista Comercial,S1035,2023-05-08
+E0074,Empleado 074,Analista Comercial,S1039,2019-10-11
+E0075,Empleado 075,Gerente de Tienda,S1012,2023-12-10
+E0076,Empleado 076,Supervisor,S1044,2018-07-16
+E0077,Empleado 077,Supervisor,S1019,2019-04-25
+E0078,Empleado 078,Supervisor,S1025,2024-07-11
+E0079,Empleado 079,Gerente de Tienda,S1004,2021-08-07
+E0080,Empleado 080,Supervisor,S1021,2020-10-18
+E0081,Empleado 081,Analista Comercial,S1015,2018-05-26
+E0082,Empleado 082,Analista Comercial,S1031,2023-07-02
+E0083,Empleado 083,Supervisor,S1012,2019-02-11
+E0084,Empleado 084,Analista Comercial,S1018,2025-02-24
+E0085,Empleado 085,Analista Comercial,S1003,2023-05-24
+E0086,Empleado 086,Vendedor,S1026,2023-12-05
+E0087,Empleado 087,Supervisor,S1041,2018-01-06
+E0088,Empleado 088,Supervisor,S1032,2022-12-23
+E0089,Empleado 089,Supervisor,S1035,2021-05-31
+E0090,Empleado 090,Gerente de Tienda,S1039,2019-06-19
+E0091,Empleado 091,Gerente de Tienda,S1034,2022-07-14
+E0092,Empleado 092,Supervisor,S1020,2024-06-30
+E0093,Empleado 093,Gerente de Tienda,S1013,2019-06-16
+E0094,Empleado 094,Gerente de Tienda,S1016,2018-06-11
+E0095,Empleado 095,Gerente de Tienda,S1033,2023-11-02
+E0096,Empleado 096,Analista Comercial,S1019,2024-09-19
+E0097,Empleado 097,Analista Comercial,S1041,2021-02-06
+E0098,Empleado 098,Supervisor,S1039,2022-04-29
+E0099,Empleado 099,Gerente de Tienda,S1018,2023-11-19
+E0100,Empleado 100,Supervisor,S1020,2023-09-16
