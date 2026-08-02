@@ -125,13 +125,13 @@ Y el archivo donde todo se consolida, el libro de Excel que contiene los 3 dashb
 
 ## 📊Dashboards imágenes
 - RetailMax S.A. - Exectuive Overview Dashboard
-![Dashboard](RETAILMAX_S.A./images/ExecutiveOverviewDash.png)
+![Dashboard](RETAILMAX_S.A/images/ExecutiveOverviewDash.png)
 
 - RetailMax S.A. - Sales Performance Dashboard
-![Dashboard](RETAILMAX_S.A./images/SalesPerformanceDash.png)
+![Dashboard](RETAILMAX_S.A/images/SalesPerformanceDash.png)
 
 - RetailMax S.A. - Returns Analysis
-![Dashboard](RETAILMAX_S.A./images/ReturnsAnalysisDash.png)
+![Dashboard](RETAILMAX_S.A/images/ReturnsAnalysisDash.png)
 
 ## 👩‍💻Autor
 Jessica Saraí Martinez Galicia
