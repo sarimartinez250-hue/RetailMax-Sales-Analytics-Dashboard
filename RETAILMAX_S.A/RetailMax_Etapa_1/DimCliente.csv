@@ -1,0 +1,801 @@
+﻿CustomerID,CustomerName,CountryCode,Country,City,Segment,SignupDate,LoyaltyTier
+C00001,Cliente 00001,NI,Nicaragua,Masaya,Small Business,2019-11-08,Plata
+C00002,Cliente 00002,SV,El Salvador,San Miguel,Corporate,2025-09-25,Bronce
+C00003,Cliente 00003,CR,Costa Rica,San José,Corporate,2024-12-22,Platino
+C00004,Cliente 00004,HN,Honduras,Tegucigalpa,Corporate,2019-02-21,Platino
+C00005,Cliente 00005,NI,Nicaragua,Managua,Education,2023-01-23,Platino
+C00006,Cliente 00006,GT,Guatemala,Quetzaltenango,Small Business,2024-11-07,Oro
+C00007,Cliente 00007,CR,Costa Rica,Cartago,Education,2024-03-19,Platino
+C00008,Cliente 00008,CR,Costa Rica,Alajuela,Corporate,2021-10-02,Bronce
+C00009,Cliente 00009,HN,Honduras,San Pedro Sula,Small Business,2024-03-18,Platino
+C00010,Cliente 00010,HN,Honduras,Tegucigalpa,Education,2022-08-24,Plata
+C00011,Cliente 00011,NI,Nicaragua,Managua,Corporate,2021-11-24,Oro
+C00012,Cliente 00012,HN,Honduras,La Ceiba,Corporate,2025-03-26,Bronce
+C00013,Cliente 00013,CR,Costa Rica,San José,Consumer,2021-09-15,Platino
+C00014,Cliente 00014,NI,Nicaragua,Masaya,Small Business,2024-05-04,Platino
+C00015,Cliente 00015,NI,Nicaragua,Managua,Consumer,2022-04-20,Plata
+C00016,Cliente 00016,NI,Nicaragua,Masaya,Small Business,2022-06-08,Oro
+C00017,Cliente 00017,NI,Nicaragua,Masaya,Corporate,2023-10-09,Oro
+C00018,Cliente 00018,HN,Honduras,La Ceiba,Education,2022-01-14,Oro
+C00019,Cliente 00019,HN,Honduras,Tegucigalpa,Consumer,2021-02-27,Oro
+C00020,Cliente 00020,SV,El Salvador,San Miguel,Small Business,2021-02-23,Plata
+C00021,Cliente 00021,NI,Nicaragua,León,Corporate,2020-02-16,Plata
+C00022,Cliente 00022,HN,Honduras,Tegucigalpa,Corporate,2021-01-04,Oro
+C00023,Cliente 00023,SV,El Salvador,San Miguel,Small Business,2022-01-28,Bronce
+C00024,Cliente 00024,SV,El Salvador,San Miguel,Corporate,2020-06-01,Platino
+C00025,Cliente 00025,SV,El Salvador,San Salvador,Corporate,2024-04-06,Platino
+C00026,Cliente 00026,NI,Nicaragua,León,Small Business,2019-07-30,Oro
+C00027,Cliente 00027,NI,Nicaragua,Managua,Consumer,2023-06-30,Platino
+C00028,Cliente 00028,SV,El Salvador,San Miguel,Consumer,2020-09-13,Plata
+C00029,Cliente 00029,CR,Costa Rica,Alajuela,Consumer,2021-10-13,Bronce
+C00030,Cliente 00030,CR,Costa Rica,Alajuela,Small Business,2024-11-10,Platino
+C00031,Cliente 00031,NI,Nicaragua,León,Corporate,2025-08-07,Platino
+C00032,Cliente 00032,HN,Honduras,La Ceiba,Consumer,2025-11-02,Bronce
+C00033,Cliente 00033,GT,Guatemala,Escuintla,Small Business,2021-12-19,Bronce
+C00034,Cliente 00034,GT,Guatemala,Guatemala City,Small Business,2025-03-10,Bronce
+C00035,Cliente 00035,GT,Guatemala,Guatemala City,Education,2024-01-20,Platino
+C00036,Cliente 00036,HN,Honduras,Tegucigalpa,Small Business,2022-03-26,Oro
+C00037,Cliente 00037,NI,Nicaragua,Managua,Small Business,2021-12-19,Plata
+C00038,Cliente 00038,NI,Nicaragua,Managua,Small Business,2020-09-02,Oro
+C00039,Cliente 00039,GT,Guatemala,Guatemala City,Consumer,2020-11-10,Oro
+C00040,Cliente 00040,CR,Costa Rica,Cartago,Corporate,2023-12-04,Bronce
+C00041,Cliente 00041,NI,Nicaragua,Masaya,Corporate,2023-07-07,Oro
+C00042,Cliente 00042,CR,Costa Rica,Cartago,Education,2023-11-29,Bronce
+C00043,Cliente 00043,CR,Costa Rica,San José,Education,2022-08-13,Oro
+C00044,Cliente 00044,SV,El Salvador,San Salvador,Small Business,2025-06-14,Bronce
+C00045,Cliente 00045,HN,Honduras,La Ceiba,Consumer,2020-12-18,Platino
+C00046,Cliente 00046,CR,Costa Rica,Cartago,Education,2022-02-13,Plata
+C00047,Cliente 00047,CR,Costa Rica,Alajuela,Education,2020-01-09,Platino
+C00048,Cliente 00048,HN,Honduras,San Pedro Sula,Corporate,2022-08-08,Bronce
+C00049,Cliente 00049,GT,Guatemala,Quetzaltenango,Education,2024-07-22,Oro
+C00050,Cliente 00050,NI,Nicaragua,Masaya,Consumer,2024-02-06,Bronce
+C00051,Cliente 00051,HN,Honduras,San Pedro Sula,Corporate,2020-04-19,Platino
+C00052,Cliente 00052,CR,Costa Rica,San José,Education,2023-08-20,Bronce
+C00053,Cliente 00053,GT,Guatemala,Escuintla,Corporate,2024-08-03,Platino
+C00054,Cliente 00054,SV,El Salvador,San Salvador,Corporate,2025-02-27,Plata
+C00055,Cliente 00055,HN,Honduras,San Pedro Sula,Education,2020-05-12,Bronce
+C00056,Cliente 00056,CR,Costa Rica,San José,Small Business,2022-06-26,Bronce
+C00057,Cliente 00057,CR,Costa Rica,Alajuela,Consumer,2021-07-09,Bronce
+C00058,Cliente 00058,NI,Nicaragua,Managua,Small Business,2024-08-03,Oro
+C00059,Cliente 00059,CR,Costa Rica,Cartago,Corporate,2023-08-29,Platino
+C00060,Cliente 00060,NI,Nicaragua,Managua,Education,2025-03-07,Plata
+C00061,Cliente 00061,NI,Nicaragua,Managua,Small Business,2019-10-13,Oro
+C00062,Cliente 00062,NI,Nicaragua,León,Corporate,2019-01-11,Oro
+C00063,Cliente 00063,HN,Honduras,La Ceiba,Education,2020-08-31,Platino
+C00064,Cliente 00064,CR,Costa Rica,Alajuela,Corporate,2022-09-23,Platino
+C00065,Cliente 00065,NI,Nicaragua,León,Small Business,2021-09-05,Platino
+C00066,Cliente 00066,GT,Guatemala,Quetzaltenango,Consumer,2022-07-27,Platino
+C00067,Cliente 00067,NI,Nicaragua,León,Small Business,2024-07-21,Bronce
+C00068,Cliente 00068,GT,Guatemala,Escuintla,Corporate,2020-02-16,Platino
+C00069,Cliente 00069,SV,El Salvador,San Miguel,Education,2019-03-04,Plata
+C00070,Cliente 00070,NI,Nicaragua,Masaya,Small Business,2019-11-03,Platino
+C00071,Cliente 00071,HN,Honduras,San Pedro Sula,Education,2019-11-25,Oro
+C00072,Cliente 00072,CR,Costa Rica,Alajuela,Corporate,2024-06-21,Bronce
+C00073,Cliente 00073,CR,Costa Rica,San José,Small Business,2022-03-23,Plata
+C00074,Cliente 00074,SV,El Salvador,Santa Ana,Consumer,2020-02-16,Platino
+C00075,Cliente 00075,GT,Guatemala,Escuintla,Corporate,2019-04-29,Bronce
+C00076,Cliente 00076,HN,Honduras,Tegucigalpa,Corporate,2023-01-08,Oro
+C00077,Cliente 00077,NI,Nicaragua,Managua,Small Business,2024-12-15,Platino
+C00078,Cliente 00078,CR,Costa Rica,Cartago,Small Business,2020-11-27,Plata
+C00079,Cliente 00079,SV,El Salvador,San Miguel,Education,2021-09-13,Platino
+C00080,Cliente 00080,CR,Costa Rica,San José,Small Business,2024-03-03,Oro
+C00081,Cliente 00081,NI,Nicaragua,León,Consumer,2024-03-20,Oro
+C00082,Cliente 00082,CR,Costa Rica,San José,Consumer,2023-12-15,Oro
+C00083,Cliente 00083,CR,Costa Rica,Alajuela,Education,2021-10-21,Platino
+C00084,Cliente 00084,HN,Honduras,Tegucigalpa,Education,2024-06-02,Bronce
+C00085,Cliente 00085,GT,Guatemala,Quetzaltenango,Corporate,2025-06-12,Oro
+C00086,Cliente 00086,HN,Honduras,Tegucigalpa,Education,2022-01-29,Bronce
+C00087,Cliente 00087,CR,Costa Rica,Cartago,Consumer,2025-10-19,Platino
+C00088,Cliente 00088,HN,Honduras,Tegucigalpa,Corporate,2021-06-16,Plata
+C00089,Cliente 00089,CR,Costa Rica,Alajuela,Small Business,2020-02-02,Bronce
+C00090,Cliente 00090,HN,Honduras,San Pedro Sula,Consumer,2025-07-01,Oro
+C00091,Cliente 00091,GT,Guatemala,Guatemala City,Corporate,2022-08-31,Platino
+C00092,Cliente 00092,GT,Guatemala,Guatemala City,Small Business,2025-01-18,Oro
+C00093,Cliente 00093,CR,Costa Rica,Cartago,Corporate,2020-11-04,Oro
+C00094,Cliente 00094,NI,Nicaragua,León,Corporate,2020-04-16,Platino
+C00095,Cliente 00095,SV,El Salvador,San Salvador,Small Business,2023-06-16,Oro
+C00096,Cliente 00096,SV,El Salvador,Santa Ana,Consumer,2021-12-19,Bronce
+C00097,Cliente 00097,NI,Nicaragua,León,Corporate,2025-07-22,Platino
+C00098,Cliente 00098,HN,Honduras,Tegucigalpa,Small Business,2024-04-15,Bronce
+C00099,Cliente 00099,CR,Costa Rica,Cartago,Corporate,2025-11-03,Plata
+C00100,Cliente 00100,SV,El Salvador,San Miguel,Education,2022-05-22,Platino
+C00101,Cliente 00101,SV,El Salvador,San Salvador,Consumer,2019-06-02,Oro
+C00102,Cliente 00102,NI,Nicaragua,Managua,Consumer,2021-08-19,Plata
+C00103,Cliente 00103,NI,Nicaragua,León,Corporate,2025-01-21,Platino
+C00104,Cliente 00104,CR,Costa Rica,Cartago,Small Business,2023-08-27,Bronce
+C00105,Cliente 00105,NI,Nicaragua,Masaya,Education,2022-02-19,Bronce
+C00106,Cliente 00106,HN,Honduras,Tegucigalpa,Education,2023-12-27,Plata
+C00107,Cliente 00107,HN,Honduras,Tegucigalpa,Corporate,2025-02-08,Oro
+C00108,Cliente 00108,SV,El Salvador,Santa Ana,Corporate,2021-02-16,Bronce
+C00109,Cliente 00109,NI,Nicaragua,Managua,Small Business,2025-09-11,Bronce
+C00110,Cliente 00110,SV,El Salvador,Santa Ana,Small Business,2020-05-30,Plata
+C00111,Cliente 00111,SV,El Salvador,San Miguel,Small Business,2025-07-29,Plata
+C00112,Cliente 00112,GT,Guatemala,Quetzaltenango,Small Business,2025-09-07,Bronce
+C00113,Cliente 00113,HN,Honduras,Tegucigalpa,Small Business,2025-01-21,Oro
+C00114,Cliente 00114,GT,Guatemala,Guatemala City,Consumer,2020-06-23,Bronce
+C00115,Cliente 00115,HN,Honduras,Tegucigalpa,Corporate,2019-03-06,Plata
+C00116,Cliente 00116,HN,Honduras,Tegucigalpa,Small Business,2023-09-21,Bronce
+C00117,Cliente 00117,SV,El Salvador,Santa Ana,Education,2023-01-22,Bronce
+C00118,Cliente 00118,NI,Nicaragua,Masaya,Small Business,2019-06-27,Oro
+C00119,Cliente 00119,NI,Nicaragua,Masaya,Consumer,2019-09-07,Platino
+C00120,Cliente 00120,NI,Nicaragua,León,Consumer,2024-07-01,Platino
+C00121,Cliente 00121,SV,El Salvador,San Salvador,Corporate,2025-10-27,Plata
+C00122,Cliente 00122,SV,El Salvador,San Salvador,Corporate,2025-07-25,Oro
+C00123,Cliente 00123,NI,Nicaragua,Masaya,Corporate,2024-02-02,Platino
+C00124,Cliente 00124,SV,El Salvador,San Miguel,Consumer,2025-03-08,Plata
+C00125,Cliente 00125,NI,Nicaragua,León,Small Business,2023-08-22,Oro
+C00126,Cliente 00126,NI,Nicaragua,León,Education,2020-01-25,Oro
+C00127,Cliente 00127,NI,Nicaragua,León,Corporate,2023-03-14,Plata
+C00128,Cliente 00128,NI,Nicaragua,Managua,Consumer,2019-12-16,Bronce
+C00129,Cliente 00129,NI,Nicaragua,Managua,Corporate,2020-06-16,Bronce
+C00130,Cliente 00130,CR,Costa Rica,Cartago,Corporate,2020-05-15,Platino
+C00131,Cliente 00131,HN,Honduras,La Ceiba,Education,2019-07-30,Oro
+C00132,Cliente 00132,CR,Costa Rica,Alajuela,Corporate,2020-02-29,Plata
+C00133,Cliente 00133,GT,Guatemala,Escuintla,Education,2021-07-07,Bronce
+C00134,Cliente 00134,HN,Honduras,La Ceiba,Corporate,2020-04-15,Oro
+C00135,Cliente 00135,CR,Costa Rica,San José,Education,2025-04-16,Bronce
+C00136,Cliente 00136,CR,Costa Rica,Cartago,Corporate,2019-04-29,Plata
+C00137,Cliente 00137,HN,Honduras,La Ceiba,Corporate,2022-10-23,Oro
+C00138,Cliente 00138,SV,El Salvador,San Salvador,Small Business,2025-05-08,Platino
+C00139,Cliente 00139,SV,El Salvador,San Salvador,Consumer,2020-01-11,Plata
+C00140,Cliente 00140,NI,Nicaragua,León,Education,2022-10-28,Plata
+C00141,Cliente 00141,HN,Honduras,San Pedro Sula,Corporate,2025-05-13,Bronce
+C00142,Cliente 00142,SV,El Salvador,San Salvador,Small Business,2019-07-23,Bronce
+C00143,Cliente 00143,HN,Honduras,San Pedro Sula,Education,2024-06-12,Platino
+C00144,Cliente 00144,NI,Nicaragua,León,Small Business,2024-09-29,Bronce
+C00145,Cliente 00145,HN,Honduras,San Pedro Sula,Consumer,2022-03-06,Platino
+C00146,Cliente 00146,CR,Costa Rica,Cartago,Corporate,2019-07-06,Plata
+C00147,Cliente 00147,NI,Nicaragua,Masaya,Consumer,2019-02-01,Plata
+C00148,Cliente 00148,HN,Honduras,Tegucigalpa,Small Business,2021-11-12,Oro
+C00149,Cliente 00149,HN,Honduras,Tegucigalpa,Consumer,2024-07-30,Platino
+C00150,Cliente 00150,GT,Guatemala,Guatemala City,Education,2024-12-21,Plata
+C00151,Cliente 00151,CR,Costa Rica,Cartago,Corporate,2019-10-23,Platino
+C00152,Cliente 00152,SV,El Salvador,Santa Ana,Consumer,2024-02-27,Bronce
+C00153,Cliente 00153,HN,Honduras,La Ceiba,Education,2025-06-06,Platino
+C00154,Cliente 00154,NI,Nicaragua,León,Consumer,2023-07-18,Bronce
+C00155,Cliente 00155,HN,Honduras,Tegucigalpa,Education,2023-01-22,Bronce
+C00156,Cliente 00156,NI,Nicaragua,Managua,Small Business,2023-11-20,Platino
+C00157,Cliente 00157,CR,Costa Rica,San José,Education,2022-06-24,Oro
+C00158,Cliente 00158,GT,Guatemala,Quetzaltenango,Small Business,2019-11-09,Bronce
+C00159,Cliente 00159,CR,Costa Rica,Cartago,Small Business,2022-12-02,Oro
+C00160,Cliente 00160,GT,Guatemala,Guatemala City,Consumer,2020-08-22,Oro
+C00161,Cliente 00161,GT,Guatemala,Guatemala City,Small Business,2019-11-05,Plata
+C00162,Cliente 00162,NI,Nicaragua,León,Education,2025-05-01,Oro
+C00163,Cliente 00163,HN,Honduras,Tegucigalpa,Education,2019-10-07,Platino
+C00164,Cliente 00164,NI,Nicaragua,Masaya,Corporate,2022-01-30,Bronce
+C00165,Cliente 00165,HN,Honduras,La Ceiba,Consumer,2022-06-25,Platino
+C00166,Cliente 00166,NI,Nicaragua,Managua,Consumer,2023-02-19,Oro
+C00167,Cliente 00167,SV,El Salvador,San Miguel,Consumer,2025-08-30,Platino
+C00168,Cliente 00168,NI,Nicaragua,Masaya,Consumer,2024-01-17,Plata
+C00169,Cliente 00169,HN,Honduras,La Ceiba,Education,2024-08-15,Plata
+C00170,Cliente 00170,SV,El Salvador,Santa Ana,Consumer,2022-11-07,Bronce
+C00171,Cliente 00171,CR,Costa Rica,Cartago,Small Business,2019-06-10,Plata
+C00172,Cliente 00172,NI,Nicaragua,León,Small Business,2023-01-30,Oro
+C00173,Cliente 00173,HN,Honduras,San Pedro Sula,Education,2022-10-17,Bronce
+C00174,Cliente 00174,HN,Honduras,Tegucigalpa,Corporate,2020-01-23,Platino
+C00175,Cliente 00175,HN,Honduras,San Pedro Sula,Small Business,2022-09-27,Bronce
+C00176,Cliente 00176,CR,Costa Rica,Cartago,Small Business,2022-12-03,Oro
+C00177,Cliente 00177,NI,Nicaragua,Managua,Consumer,2022-06-22,Platino
+C00178,Cliente 00178,HN,Honduras,Tegucigalpa,Consumer,2023-10-01,Oro
+C00179,Cliente 00179,SV,El Salvador,Santa Ana,Corporate,2021-01-08,Plata
+C00180,Cliente 00180,HN,Honduras,San Pedro Sula,Small Business,2021-07-16,Plata
+C00181,Cliente 00181,GT,Guatemala,Guatemala City,Corporate,2020-02-19,Bronce
+C00182,Cliente 00182,HN,Honduras,La Ceiba,Small Business,2025-09-12,Platino
+C00183,Cliente 00183,GT,Guatemala,Guatemala City,Small Business,2020-11-09,Platino
+C00184,Cliente 00184,SV,El Salvador,Santa Ana,Corporate,2021-08-30,Platino
+C00185,Cliente 00185,CR,Costa Rica,Alajuela,Education,2021-08-16,Plata
+C00186,Cliente 00186,HN,Honduras,San Pedro Sula,Small Business,2023-02-15,Platino
+C00187,Cliente 00187,NI,Nicaragua,León,Education,2024-08-21,Platino
+C00188,Cliente 00188,GT,Guatemala,Guatemala City,Small Business,2021-10-21,Bronce
+C00189,Cliente 00189,NI,Nicaragua,León,Consumer,2024-10-14,Bronce
+C00190,Cliente 00190,HN,Honduras,Tegucigalpa,Small Business,2022-01-22,Platino
+C00191,Cliente 00191,CR,Costa Rica,San José,Education,2020-01-11,Plata
+C00192,Cliente 00192,NI,Nicaragua,León,Consumer,2023-08-27,Bronce
+C00193,Cliente 00193,NI,Nicaragua,Masaya,Corporate,2021-08-23,Platino
+C00194,Cliente 00194,SV,El Salvador,Santa Ana,Small Business,2019-04-26,Oro
+C00195,Cliente 00195,SV,El Salvador,San Miguel,Corporate,2020-08-21,Plata
+C00196,Cliente 00196,SV,El Salvador,Santa Ana,Education,2020-07-22,Platino
+C00197,Cliente 00197,NI,Nicaragua,Masaya,Consumer,2019-11-21,Bronce
+C00198,Cliente 00198,HN,Honduras,Tegucigalpa,Small Business,2025-02-25,Platino
+C00199,Cliente 00199,SV,El Salvador,Santa Ana,Small Business,2022-05-18,Bronce
+C00200,Cliente 00200,SV,El Salvador,San Salvador,Education,2024-02-16,Bronce
+C00201,Cliente 00201,SV,El Salvador,Santa Ana,Consumer,2024-10-11,Plata
+C00202,Cliente 00202,GT,Guatemala,Quetzaltenango,Education,2019-01-07,Oro
+C00203,Cliente 00203,GT,Guatemala,Escuintla,Education,2021-02-06,Bronce
+C00204,Cliente 00204,CR,Costa Rica,Alajuela,Consumer,2024-11-24,Bronce
+C00205,Cliente 00205,NI,Nicaragua,León,Consumer,2023-05-04,Oro
+C00206,Cliente 00206,HN,Honduras,La Ceiba,Consumer,2023-01-02,Bronce
+C00207,Cliente 00207,HN,Honduras,Tegucigalpa,Consumer,2025-07-11,Oro
+C00208,Cliente 00208,GT,Guatemala,Guatemala City,Corporate,2025-02-14,Oro
+C00209,Cliente 00209,GT,Guatemala,Escuintla,Education,2024-05-14,Plata
+C00210,Cliente 00210,GT,Guatemala,Guatemala City,Education,2019-06-01,Oro
+C00211,Cliente 00211,GT,Guatemala,Guatemala City,Small Business,2019-06-21,Oro
+C00212,Cliente 00212,HN,Honduras,La Ceiba,Education,2025-02-02,Platino
+C00213,Cliente 00213,HN,Honduras,Tegucigalpa,Small Business,2022-03-17,Oro
+C00214,Cliente 00214,SV,El Salvador,San Miguel,Corporate,2022-01-24,Bronce
+C00215,Cliente 00215,HN,Honduras,San Pedro Sula,Education,2023-12-07,Platino
+C00216,Cliente 00216,HN,Honduras,Tegucigalpa,Education,2024-07-30,Oro
+C00217,Cliente 00217,CR,Costa Rica,Alajuela,Consumer,2023-10-05,Bronce
+C00218,Cliente 00218,NI,Nicaragua,Masaya,Small Business,2025-02-12,Oro
+C00219,Cliente 00219,HN,Honduras,Tegucigalpa,Consumer,2022-09-05,Oro
+C00220,Cliente 00220,HN,Honduras,San Pedro Sula,Education,2020-11-13,Platino
+C00221,Cliente 00221,HN,Honduras,San Pedro Sula,Consumer,2022-12-15,Platino
+C00222,Cliente 00222,HN,Honduras,La Ceiba,Consumer,2019-11-04,Platino
+C00223,Cliente 00223,HN,Honduras,La Ceiba,Small Business,2019-05-08,Plata
+C00224,Cliente 00224,CR,Costa Rica,Cartago,Education,2019-05-23,Plata
+C00225,Cliente 00225,SV,El Salvador,San Salvador,Corporate,2023-01-23,Platino
+C00226,Cliente 00226,CR,Costa Rica,San José,Small Business,2024-01-17,Oro
+C00227,Cliente 00227,HN,Honduras,San Pedro Sula,Consumer,2025-06-08,Plata
+C00228,Cliente 00228,CR,Costa Rica,Alajuela,Education,2022-07-11,Oro
+C00229,Cliente 00229,GT,Guatemala,Guatemala City,Consumer,2021-02-01,Platino
+C00230,Cliente 00230,CR,Costa Rica,Alajuela,Consumer,2021-12-08,Oro
+C00231,Cliente 00231,NI,Nicaragua,Managua,Corporate,2024-07-04,Plata
+C00232,Cliente 00232,SV,El Salvador,San Salvador,Consumer,2024-01-26,Plata
+C00233,Cliente 00233,NI,Nicaragua,Managua,Corporate,2022-11-24,Bronce
+C00234,Cliente 00234,CR,Costa Rica,Cartago,Corporate,2022-05-13,Plata
+C00235,Cliente 00235,GT,Guatemala,Quetzaltenango,Small Business,2020-05-12,Plata
+C00236,Cliente 00236,GT,Guatemala,Guatemala City,Education,2019-04-18,Oro
+C00237,Cliente 00237,CR,Costa Rica,Cartago,Corporate,2024-03-29,Plata
+C00238,Cliente 00238,CR,Costa Rica,San José,Consumer,2022-06-20,Platino
+C00239,Cliente 00239,NI,Nicaragua,Masaya,Education,2023-08-05,Bronce
+C00240,Cliente 00240,GT,Guatemala,Quetzaltenango,Consumer,2024-01-18,Platino
+C00241,Cliente 00241,CR,Costa Rica,Alajuela,Small Business,2025-03-08,Plata
+C00242,Cliente 00242,GT,Guatemala,Quetzaltenango,Consumer,2020-05-23,Plata
+C00243,Cliente 00243,HN,Honduras,Tegucigalpa,Small Business,2022-08-14,Plata
+C00244,Cliente 00244,HN,Honduras,La Ceiba,Corporate,2019-11-20,Oro
+C00245,Cliente 00245,GT,Guatemala,Escuintla,Corporate,2020-05-27,Oro
+C00246,Cliente 00246,CR,Costa Rica,Cartago,Consumer,2024-08-20,Plata
+C00247,Cliente 00247,CR,Costa Rica,Cartago,Small Business,2020-12-02,Oro
+C00248,Cliente 00248,CR,Costa Rica,San José,Consumer,2019-11-29,Bronce
+C00249,Cliente 00249,CR,Costa Rica,Alajuela,Small Business,2025-06-01,Platino
+C00250,Cliente 00250,CR,Costa Rica,Cartago,Consumer,2024-08-01,Oro
+C00251,Cliente 00251,HN,Honduras,San Pedro Sula,Small Business,2023-07-22,Oro
+C00252,Cliente 00252,NI,Nicaragua,Managua,Consumer,2020-10-09,Platino
+C00253,Cliente 00253,NI,Nicaragua,León,Education,2021-04-15,Oro
+C00254,Cliente 00254,CR,Costa Rica,San José,Corporate,2022-07-31,Oro
+C00255,Cliente 00255,NI,Nicaragua,Managua,Corporate,2024-10-10,Bronce
+C00256,Cliente 00256,HN,Honduras,Tegucigalpa,Education,2020-05-16,Oro
+C00257,Cliente 00257,NI,Nicaragua,Managua,Small Business,2020-02-01,Bronce
+C00258,Cliente 00258,HN,Honduras,San Pedro Sula,Education,2021-10-13,Plata
+C00259,Cliente 00259,HN,Honduras,La Ceiba,Corporate,2021-02-16,Plata
+C00260,Cliente 00260,NI,Nicaragua,Masaya,Education,2024-08-04,Oro
+C00261,Cliente 00261,NI,Nicaragua,Managua,Consumer,2023-05-30,Platino
+C00262,Cliente 00262,GT,Guatemala,Guatemala City,Corporate,2019-07-19,Bronce
+C00263,Cliente 00263,HN,Honduras,San Pedro Sula,Education,2022-03-16,Bronce
+C00264,Cliente 00264,SV,El Salvador,Santa Ana,Small Business,2021-12-19,Oro
+C00265,Cliente 00265,NI,Nicaragua,León,Consumer,2023-06-29,Bronce
+C00266,Cliente 00266,CR,Costa Rica,Cartago,Small Business,2023-01-24,Oro
+C00267,Cliente 00267,SV,El Salvador,Santa Ana,Education,2025-03-02,Oro
+C00268,Cliente 00268,CR,Costa Rica,Cartago,Consumer,2020-06-11,Bronce
+C00269,Cliente 00269,NI,Nicaragua,León,Corporate,2025-04-03,Oro
+C00270,Cliente 00270,GT,Guatemala,Guatemala City,Education,2024-08-10,Bronce
+C00271,Cliente 00271,SV,El Salvador,San Salvador,Small Business,2022-09-26,Platino
+C00272,Cliente 00272,CR,Costa Rica,Alajuela,Small Business,2025-10-19,Plata
+C00273,Cliente 00273,HN,Honduras,La Ceiba,Corporate,2020-10-27,Platino
+C00274,Cliente 00274,CR,Costa Rica,Cartago,Corporate,2025-08-28,Oro
+C00275,Cliente 00275,CR,Costa Rica,Cartago,Education,2025-04-24,Oro
+C00276,Cliente 00276,NI,Nicaragua,Managua,Corporate,2022-09-18,Bronce
+C00277,Cliente 00277,NI,Nicaragua,Masaya,Corporate,2019-04-20,Platino
+C00278,Cliente 00278,HN,Honduras,La Ceiba,Small Business,2019-07-30,Platino
+C00279,Cliente 00279,GT,Guatemala,Escuintla,Education,2020-08-28,Plata
+C00280,Cliente 00280,SV,El Salvador,San Miguel,Consumer,2021-02-20,Bronce
+C00281,Cliente 00281,NI,Nicaragua,León,Education,2020-09-12,Platino
+C00282,Cliente 00282,GT,Guatemala,Quetzaltenango,Education,2019-09-13,Plata
+C00283,Cliente 00283,CR,Costa Rica,San José,Corporate,2024-05-13,Platino
+C00284,Cliente 00284,HN,Honduras,Tegucigalpa,Education,2024-12-23,Oro
+C00285,Cliente 00285,CR,Costa Rica,Alajuela,Corporate,2025-11-03,Platino
+C00286,Cliente 00286,GT,Guatemala,Guatemala City,Corporate,2025-04-04,Oro
+C00287,Cliente 00287,GT,Guatemala,Quetzaltenango,Corporate,2021-04-29,Platino
+C00288,Cliente 00288,HN,Honduras,San Pedro Sula,Corporate,2025-04-14,Oro
+C00289,Cliente 00289,HN,Honduras,Tegucigalpa,Education,2023-06-05,Oro
+C00290,Cliente 00290,GT,Guatemala,Quetzaltenango,Consumer,2022-03-24,Bronce
+C00291,Cliente 00291,HN,Honduras,San Pedro Sula,Corporate,2024-05-16,Plata
+C00292,Cliente 00292,GT,Guatemala,Escuintla,Corporate,2025-04-21,Oro
+C00293,Cliente 00293,GT,Guatemala,Guatemala City,Small Business,2021-09-20,Bronce
+C00294,Cliente 00294,CR,Costa Rica,San José,Small Business,2019-08-04,Bronce
+C00295,Cliente 00295,NI,Nicaragua,León,Education,2020-02-16,Plata
+C00296,Cliente 00296,SV,El Salvador,San Miguel,Small Business,2023-07-25,Platino
+C00297,Cliente 00297,NI,Nicaragua,Masaya,Small Business,2022-03-22,Oro
+C00298,Cliente 00298,HN,Honduras,La Ceiba,Consumer,2020-01-02,Plata
+C00299,Cliente 00299,CR,Costa Rica,Cartago,Consumer,2020-12-18,Platino
+C00300,Cliente 00300,GT,Guatemala,Guatemala City,Education,2024-07-22,Plata
+C00301,Cliente 00301,HN,Honduras,Tegucigalpa,Consumer,2022-05-07,Bronce
+C00302,Cliente 00302,HN,Honduras,San Pedro Sula,Education,2025-02-03,Platino
+C00303,Cliente 00303,GT,Guatemala,Escuintla,Education,2022-01-22,Plata
+C00304,Cliente 00304,SV,El Salvador,Santa Ana,Small Business,2024-02-23,Oro
+C00305,Cliente 00305,GT,Guatemala,Guatemala City,Corporate,2022-04-23,Plata
+C00306,Cliente 00306,GT,Guatemala,Escuintla,Education,2023-10-18,Oro
+C00307,Cliente 00307,SV,El Salvador,Santa Ana,Consumer,2021-01-26,Plata
+C00308,Cliente 00308,NI,Nicaragua,León,Small Business,2019-01-28,Oro
+C00309,Cliente 00309,NI,Nicaragua,Managua,Education,2021-12-29,Oro
+C00310,Cliente 00310,HN,Honduras,La Ceiba,Consumer,2021-12-07,Oro
+C00311,Cliente 00311,GT,Guatemala,Guatemala City,Consumer,2024-03-21,Oro
+C00312,Cliente 00312,GT,Guatemala,Quetzaltenango,Corporate,2020-04-25,Oro
+C00313,Cliente 00313,HN,Honduras,La Ceiba,Small Business,2021-06-16,Plata
+C00314,Cliente 00314,NI,Nicaragua,Managua,Education,2025-10-17,Oro
+C00315,Cliente 00315,NI,Nicaragua,Masaya,Education,2025-01-10,Plata
+C00316,Cliente 00316,GT,Guatemala,Escuintla,Consumer,2024-11-22,Platino
+C00317,Cliente 00317,CR,Costa Rica,Cartago,Corporate,2019-11-16,Bronce
+C00318,Cliente 00318,SV,El Salvador,San Miguel,Small Business,2025-06-03,Plata
+C00319,Cliente 00319,GT,Guatemala,Quetzaltenango,Education,2020-04-21,Plata
+C00320,Cliente 00320,CR,Costa Rica,Alajuela,Consumer,2024-09-21,Platino
+C00321,Cliente 00321,SV,El Salvador,Santa Ana,Small Business,2024-10-03,Platino
+C00322,Cliente 00322,NI,Nicaragua,Masaya,Consumer,2025-04-07,Platino
+C00323,Cliente 00323,HN,Honduras,La Ceiba,Consumer,2023-06-10,Oro
+C00324,Cliente 00324,SV,El Salvador,San Miguel,Small Business,2025-06-26,Bronce
+C00325,Cliente 00325,SV,El Salvador,Santa Ana,Corporate,2019-09-19,Bronce
+C00326,Cliente 00326,SV,El Salvador,Santa Ana,Consumer,2022-03-21,Platino
+C00327,Cliente 00327,GT,Guatemala,Guatemala City,Education,2023-03-14,Platino
+C00328,Cliente 00328,NI,Nicaragua,León,Education,2019-11-25,Plata
+C00329,Cliente 00329,HN,Honduras,Tegucigalpa,Small Business,2025-01-09,Platino
+C00330,Cliente 00330,CR,Costa Rica,San José,Small Business,2019-01-15,Bronce
+C00331,Cliente 00331,HN,Honduras,San Pedro Sula,Education,2024-12-18,Platino
+C00332,Cliente 00332,GT,Guatemala,Guatemala City,Education,2022-11-18,Plata
+C00333,Cliente 00333,HN,Honduras,Tegucigalpa,Consumer,2019-05-12,Platino
+C00334,Cliente 00334,CR,Costa Rica,San José,Small Business,2021-04-24,Bronce
+C00335,Cliente 00335,SV,El Salvador,San Miguel,Consumer,2024-01-03,Bronce
+C00336,Cliente 00336,GT,Guatemala,Escuintla,Consumer,2023-07-06,Platino
+C00337,Cliente 00337,GT,Guatemala,Escuintla,Small Business,2019-08-20,Plata
+C00338,Cliente 00338,CR,Costa Rica,Alajuela,Small Business,2025-06-17,Oro
+C00339,Cliente 00339,CR,Costa Rica,Cartago,Corporate,2021-08-28,Oro
+C00340,Cliente 00340,GT,Guatemala,Escuintla,Small Business,2023-08-21,Oro
+C00341,Cliente 00341,HN,Honduras,Tegucigalpa,Small Business,2023-10-16,Platino
+C00342,Cliente 00342,SV,El Salvador,Santa Ana,Education,2024-11-18,Oro
+C00343,Cliente 00343,NI,Nicaragua,León,Small Business,2022-05-13,Platino
+C00344,Cliente 00344,GT,Guatemala,Escuintla,Education,2021-09-14,Plata
+C00345,Cliente 00345,HN,Honduras,La Ceiba,Small Business,2024-03-11,Bronce
+C00346,Cliente 00346,CR,Costa Rica,Alajuela,Education,2025-04-01,Plata
+C00347,Cliente 00347,NI,Nicaragua,Managua,Corporate,2021-04-12,Oro
+C00348,Cliente 00348,SV,El Salvador,Santa Ana,Corporate,2020-01-14,Plata
+C00349,Cliente 00349,SV,El Salvador,Santa Ana,Education,2025-10-13,Bronce
+C00350,Cliente 00350,SV,El Salvador,San Salvador,Small Business,2024-05-17,Plata
+C00351,Cliente 00351,HN,Honduras,San Pedro Sula,Consumer,2021-05-17,Plata
+C00352,Cliente 00352,SV,El Salvador,San Miguel,Education,2021-09-20,Plata
+C00353,Cliente 00353,NI,Nicaragua,Managua,Corporate,2022-03-05,Platino
+C00354,Cliente 00354,NI,Nicaragua,Masaya,Corporate,2022-06-17,Oro
+C00355,Cliente 00355,HN,Honduras,La Ceiba,Education,2024-03-23,Bronce
+C00356,Cliente 00356,NI,Nicaragua,León,Small Business,2023-02-27,Oro
+C00357,Cliente 00357,NI,Nicaragua,Managua,Small Business,2020-08-20,Bronce
+C00358,Cliente 00358,HN,Honduras,La Ceiba,Education,2022-04-24,Plata
+C00359,Cliente 00359,GT,Guatemala,Quetzaltenango,Small Business,2023-04-05,Plata
+C00360,Cliente 00360,NI,Nicaragua,Masaya,Corporate,2021-11-20,Platino
+C00361,Cliente 00361,NI,Nicaragua,León,Small Business,2022-12-13,Plata
+C00362,Cliente 00362,GT,Guatemala,Escuintla,Education,2021-01-23,Bronce
+C00363,Cliente 00363,CR,Costa Rica,San José,Consumer,2019-07-18,Bronce
+C00364,Cliente 00364,NI,Nicaragua,Managua,Small Business,2019-10-06,Plata
+C00365,Cliente 00365,SV,El Salvador,San Salvador,Education,2023-03-09,Bronce
+C00366,Cliente 00366,CR,Costa Rica,Cartago,Education,2024-06-21,Bronce
+C00367,Cliente 00367,SV,El Salvador,San Miguel,Education,2019-02-18,Bronce
+C00368,Cliente 00368,CR,Costa Rica,Cartago,Corporate,2025-01-03,Oro
+C00369,Cliente 00369,SV,El Salvador,San Miguel,Education,2021-01-04,Bronce
+C00370,Cliente 00370,SV,El Salvador,San Miguel,Small Business,2021-09-14,Plata
+C00371,Cliente 00371,CR,Costa Rica,Cartago,Corporate,2022-12-22,Oro
+C00372,Cliente 00372,NI,Nicaragua,Managua,Corporate,2023-07-22,Platino
+C00373,Cliente 00373,CR,Costa Rica,San José,Small Business,2022-05-13,Bronce
+C00374,Cliente 00374,SV,El Salvador,San Salvador,Education,2023-04-03,Platino
+C00375,Cliente 00375,CR,Costa Rica,Alajuela,Consumer,2019-02-08,Plata
+C00376,Cliente 00376,SV,El Salvador,Santa Ana,Education,2022-09-18,Bronce
+C00377,Cliente 00377,CR,Costa Rica,San José,Small Business,2021-05-15,Platino
+C00378,Cliente 00378,HN,Honduras,Tegucigalpa,Consumer,2022-02-22,Bronce
+C00379,Cliente 00379,GT,Guatemala,Quetzaltenango,Consumer,2021-04-28,Plata
+C00380,Cliente 00380,NI,Nicaragua,Managua,Corporate,2020-10-27,Plata
+C00381,Cliente 00381,CR,Costa Rica,Alajuela,Corporate,2023-04-22,Plata
+C00382,Cliente 00382,SV,El Salvador,San Miguel,Corporate,2019-08-08,Bronce
+C00383,Cliente 00383,NI,Nicaragua,Managua,Consumer,2022-10-27,Platino
+C00384,Cliente 00384,HN,Honduras,Tegucigalpa,Corporate,2024-01-20,Platino
+C00385,Cliente 00385,GT,Guatemala,Quetzaltenango,Education,2023-11-04,Plata
+C00386,Cliente 00386,CR,Costa Rica,Cartago,Education,2019-12-18,Oro
+C00387,Cliente 00387,GT,Guatemala,Escuintla,Consumer,2019-12-03,Oro
+C00388,Cliente 00388,GT,Guatemala,Quetzaltenango,Small Business,2023-05-15,Oro
+C00389,Cliente 00389,HN,Honduras,Tegucigalpa,Consumer,2019-01-22,Oro
+C00390,Cliente 00390,NI,Nicaragua,León,Corporate,2020-02-23,Plata
+C00391,Cliente 00391,SV,El Salvador,San Salvador,Education,2024-01-13,Platino
+C00392,Cliente 00392,SV,El Salvador,San Salvador,Consumer,2022-12-20,Bronce
+C00393,Cliente 00393,CR,Costa Rica,Cartago,Corporate,2023-04-27,Bronce
+C00394,Cliente 00394,HN,Honduras,San Pedro Sula,Education,2019-12-13,Plata
+C00395,Cliente 00395,CR,Costa Rica,Cartago,Small Business,2023-04-09,Plata
+C00396,Cliente 00396,GT,Guatemala,Quetzaltenango,Corporate,2022-01-04,Platino
+C00397,Cliente 00397,GT,Guatemala,Guatemala City,Small Business,2023-11-16,Oro
+C00398,Cliente 00398,NI,Nicaragua,León,Education,2019-11-12,Oro
+C00399,Cliente 00399,HN,Honduras,Tegucigalpa,Education,2025-08-29,Plata
+C00400,Cliente 00400,NI,Nicaragua,Managua,Small Business,2022-06-01,Bronce
+C00401,Cliente 00401,NI,Nicaragua,León,Education,2022-09-11,Platino
+C00402,Cliente 00402,HN,Honduras,San Pedro Sula,Small Business,2022-05-15,Oro
+C00403,Cliente 00403,CR,Costa Rica,Cartago,Small Business,2024-05-16,Oro
+C00404,Cliente 00404,GT,Guatemala,Quetzaltenango,Corporate,2022-04-08,Platino
+C00405,Cliente 00405,CR,Costa Rica,San José,Corporate,2023-03-21,Oro
+C00406,Cliente 00406,NI,Nicaragua,León,Consumer,2025-04-28,Plata
+C00407,Cliente 00407,CR,Costa Rica,Cartago,Small Business,2025-03-03,Bronce
+C00408,Cliente 00408,NI,Nicaragua,Masaya,Small Business,2023-12-01,Oro
+C00409,Cliente 00409,SV,El Salvador,Santa Ana,Education,2020-07-24,Oro
+C00410,Cliente 00410,GT,Guatemala,Quetzaltenango,Small Business,2023-09-30,Platino
+C00411,Cliente 00411,SV,El Salvador,Santa Ana,Education,2025-07-12,Platino
+C00412,Cliente 00412,CR,Costa Rica,Cartago,Education,2025-02-04,Bronce
+C00413,Cliente 00413,HN,Honduras,La Ceiba,Consumer,2020-03-23,Plata
+C00414,Cliente 00414,HN,Honduras,Tegucigalpa,Consumer,2025-04-25,Platino
+C00415,Cliente 00415,HN,Honduras,San Pedro Sula,Consumer,2019-02-13,Bronce
+C00416,Cliente 00416,HN,Honduras,Tegucigalpa,Small Business,2023-12-31,Oro
+C00417,Cliente 00417,NI,Nicaragua,León,Small Business,2022-11-13,Bronce
+C00418,Cliente 00418,NI,Nicaragua,Managua,Corporate,2023-08-31,Bronce
+C00419,Cliente 00419,SV,El Salvador,San Miguel,Small Business,2022-11-27,Oro
+C00420,Cliente 00420,HN,Honduras,San Pedro Sula,Small Business,2024-11-04,Platino
+C00421,Cliente 00421,HN,Honduras,San Pedro Sula,Consumer,2023-11-30,Platino
+C00422,Cliente 00422,HN,Honduras,Tegucigalpa,Corporate,2019-07-03,Bronce
+C00423,Cliente 00423,SV,El Salvador,Santa Ana,Consumer,2020-11-04,Plata
+C00424,Cliente 00424,CR,Costa Rica,San José,Small Business,2022-09-17,Platino
+C00425,Cliente 00425,NI,Nicaragua,Managua,Education,2021-01-25,Plata
+C00426,Cliente 00426,NI,Nicaragua,León,Consumer,2021-03-19,Platino
+C00427,Cliente 00427,CR,Costa Rica,Alajuela,Education,2019-01-19,Plata
+C00428,Cliente 00428,GT,Guatemala,Quetzaltenango,Consumer,2025-06-22,Bronce
+C00429,Cliente 00429,CR,Costa Rica,San José,Corporate,2022-08-28,Plata
+C00430,Cliente 00430,NI,Nicaragua,Managua,Corporate,2024-06-27,Oro
+C00431,Cliente 00431,CR,Costa Rica,Alajuela,Education,2025-08-01,Bronce
+C00432,Cliente 00432,HN,Honduras,San Pedro Sula,Education,2020-12-07,Oro
+C00433,Cliente 00433,CR,Costa Rica,Cartago,Consumer,2020-07-02,Oro
+C00434,Cliente 00434,SV,El Salvador,San Salvador,Corporate,2020-04-24,Plata
+C00435,Cliente 00435,HN,Honduras,La Ceiba,Small Business,2024-09-23,Platino
+C00436,Cliente 00436,NI,Nicaragua,Masaya,Small Business,2025-06-12,Platino
+C00437,Cliente 00437,NI,Nicaragua,Managua,Education,2025-01-10,Plata
+C00438,Cliente 00438,CR,Costa Rica,San José,Education,2022-03-29,Plata
+C00439,Cliente 00439,GT,Guatemala,Quetzaltenango,Education,2019-08-08,Oro
+C00440,Cliente 00440,SV,El Salvador,Santa Ana,Small Business,2021-03-10,Platino
+C00441,Cliente 00441,CR,Costa Rica,Cartago,Education,2023-08-03,Platino
+C00442,Cliente 00442,NI,Nicaragua,Masaya,Education,2024-06-24,Plata
+C00443,Cliente 00443,SV,El Salvador,San Miguel,Consumer,2021-06-22,Oro
+C00444,Cliente 00444,SV,El Salvador,Santa Ana,Small Business,2025-01-11,Oro
+C00445,Cliente 00445,GT,Guatemala,Quetzaltenango,Education,2025-03-01,Bronce
+C00446,Cliente 00446,CR,Costa Rica,San José,Corporate,2025-02-02,Oro
+C00447,Cliente 00447,CR,Costa Rica,San José,Education,2025-02-15,Plata
+C00448,Cliente 00448,NI,Nicaragua,Managua,Small Business,2022-05-04,Bronce
+C00449,Cliente 00449,NI,Nicaragua,León,Corporate,2019-12-23,Platino
+C00450,Cliente 00450,SV,El Salvador,San Salvador,Small Business,2025-08-05,Oro
+C00451,Cliente 00451,CR,Costa Rica,Cartago,Education,2020-11-10,Plata
+C00452,Cliente 00452,GT,Guatemala,Guatemala City,Consumer,2025-05-24,Oro
+C00453,Cliente 00453,CR,Costa Rica,Alajuela,Small Business,2022-08-18,Oro
+C00454,Cliente 00454,HN,Honduras,La Ceiba,Corporate,2024-10-08,Bronce
+C00455,Cliente 00455,GT,Guatemala,Quetzaltenango,Consumer,2022-02-09,Plata
+C00456,Cliente 00456,GT,Guatemala,Guatemala City,Small Business,2022-08-12,Plata
+C00457,Cliente 00457,NI,Nicaragua,León,Small Business,2025-06-23,Oro
+C00458,Cliente 00458,NI,Nicaragua,León,Education,2019-11-06,Bronce
+C00459,Cliente 00459,NI,Nicaragua,Masaya,Corporate,2023-02-20,Platino
+C00460,Cliente 00460,NI,Nicaragua,León,Consumer,2020-01-17,Platino
+C00461,Cliente 00461,HN,Honduras,Tegucigalpa,Education,2021-06-11,Platino
+C00462,Cliente 00462,GT,Guatemala,Quetzaltenango,Corporate,2022-08-15,Oro
+C00463,Cliente 00463,HN,Honduras,La Ceiba,Small Business,2025-05-07,Platino
+C00464,Cliente 00464,HN,Honduras,La Ceiba,Consumer,2019-07-08,Bronce
+C00465,Cliente 00465,NI,Nicaragua,Managua,Consumer,2020-10-09,Platino
+C00466,Cliente 00466,NI,Nicaragua,Managua,Education,2021-04-08,Plata
+C00467,Cliente 00467,HN,Honduras,Tegucigalpa,Corporate,2020-01-18,Oro
+C00468,Cliente 00468,HN,Honduras,Tegucigalpa,Corporate,2020-11-08,Bronce
+C00469,Cliente 00469,NI,Nicaragua,Masaya,Corporate,2021-08-17,Platino
+C00470,Cliente 00470,SV,El Salvador,San Miguel,Consumer,2019-01-05,Plata
+C00471,Cliente 00471,NI,Nicaragua,Managua,Small Business,2025-08-28,Plata
+C00472,Cliente 00472,CR,Costa Rica,Cartago,Education,2019-02-08,Bronce
+C00473,Cliente 00473,HN,Honduras,Tegucigalpa,Education,2020-06-25,Platino
+C00474,Cliente 00474,SV,El Salvador,San Salvador,Education,2020-01-01,Bronce
+C00475,Cliente 00475,SV,El Salvador,Santa Ana,Corporate,2022-05-10,Plata
+C00476,Cliente 00476,NI,Nicaragua,Managua,Small Business,2019-10-08,Bronce
+C00477,Cliente 00477,CR,Costa Rica,Cartago,Small Business,2023-12-08,Oro
+C00478,Cliente 00478,GT,Guatemala,Escuintla,Small Business,2023-08-14,Platino
+C00479,Cliente 00479,GT,Guatemala,Guatemala City,Consumer,2020-07-27,Bronce
+C00480,Cliente 00480,CR,Costa Rica,Cartago,Education,2022-12-10,Platino
+C00481,Cliente 00481,HN,Honduras,Tegucigalpa,Small Business,2022-02-08,Bronce
+C00482,Cliente 00482,GT,Guatemala,Escuintla,Corporate,2019-04-20,Oro
+C00483,Cliente 00483,GT,Guatemala,Escuintla,Small Business,2023-05-24,Oro
+C00484,Cliente 00484,SV,El Salvador,San Salvador,Education,2023-04-30,Bronce
+C00485,Cliente 00485,GT,Guatemala,Quetzaltenango,Consumer,2024-12-03,Bronce
+C00486,Cliente 00486,HN,Honduras,San Pedro Sula,Small Business,2023-05-04,Platino
+C00487,Cliente 00487,HN,Honduras,La Ceiba,Small Business,2024-04-13,Bronce
+C00488,Cliente 00488,SV,El Salvador,San Miguel,Consumer,2019-02-26,Oro
+C00489,Cliente 00489,GT,Guatemala,Guatemala City,Consumer,2023-06-19,Oro
+C00490,Cliente 00490,CR,Costa Rica,Alajuela,Education,2023-07-06,Bronce
+C00491,Cliente 00491,CR,Costa Rica,Cartago,Small Business,2022-02-10,Bronce
+C00492,Cliente 00492,HN,Honduras,Tegucigalpa,Small Business,2020-09-28,Oro
+C00493,Cliente 00493,NI,Nicaragua,Masaya,Consumer,2022-06-24,Platino
+C00494,Cliente 00494,GT,Guatemala,Guatemala City,Small Business,2019-12-20,Platino
+C00495,Cliente 00495,SV,El Salvador,Santa Ana,Consumer,2022-06-20,Plata
+C00496,Cliente 00496,SV,El Salvador,San Salvador,Small Business,2019-02-16,Plata
+C00497,Cliente 00497,NI,Nicaragua,León,Corporate,2020-11-14,Oro
+C00498,Cliente 00498,GT,Guatemala,Escuintla,Corporate,2020-04-28,Bronce
+C00499,Cliente 00499,HN,Honduras,San Pedro Sula,Corporate,2024-11-15,Bronce
+C00500,Cliente 00500,HN,Honduras,La Ceiba,Consumer,2024-07-25,Platino
+C00501,Cliente 00501,CR,Costa Rica,Alajuela,Consumer,2024-08-08,Plata
+C00502,Cliente 00502,HN,Honduras,Tegucigalpa,Corporate,2020-02-26,Bronce
+C00503,Cliente 00503,GT,Guatemala,Escuintla,Consumer,2019-06-30,Bronce
+C00504,Cliente 00504,GT,Guatemala,Guatemala City,Education,2023-01-30,Platino
+C00505,Cliente 00505,GT,Guatemala,Guatemala City,Consumer,2025-03-14,Platino
+C00506,Cliente 00506,GT,Guatemala,Quetzaltenango,Small Business,2023-09-01,Oro
+C00507,Cliente 00507,HN,Honduras,Tegucigalpa,Corporate,2020-05-04,Bronce
+C00508,Cliente 00508,GT,Guatemala,Guatemala City,Consumer,2023-07-01,Bronce
+C00509,Cliente 00509,NI,Nicaragua,León,Corporate,2022-09-02,Bronce
+C00510,Cliente 00510,CR,Costa Rica,Alajuela,Consumer,2023-02-20,Plata
+C00511,Cliente 00511,HN,Honduras,La Ceiba,Corporate,2021-09-20,Platino
+C00512,Cliente 00512,HN,Honduras,La Ceiba,Education,2021-03-11,Plata
+C00513,Cliente 00513,GT,Guatemala,Guatemala City,Education,2019-04-08,Plata
+C00514,Cliente 00514,CR,Costa Rica,Alajuela,Consumer,2022-10-04,Bronce
+C00515,Cliente 00515,NI,Nicaragua,Masaya,Corporate,2020-03-01,Plata
+C00516,Cliente 00516,CR,Costa Rica,San José,Education,2024-07-08,Bronce
+C00517,Cliente 00517,GT,Guatemala,Escuintla,Corporate,2020-01-17,Bronce
+C00518,Cliente 00518,GT,Guatemala,Escuintla,Education,2023-03-06,Platino
+C00519,Cliente 00519,SV,El Salvador,San Miguel,Consumer,2024-09-01,Plata
+C00520,Cliente 00520,NI,Nicaragua,Managua,Consumer,2023-11-17,Plata
+C00521,Cliente 00521,GT,Guatemala,Quetzaltenango,Corporate,2022-07-14,Platino
+C00522,Cliente 00522,HN,Honduras,San Pedro Sula,Education,2022-01-18,Plata
+C00523,Cliente 00523,SV,El Salvador,San Salvador,Small Business,2025-07-22,Bronce
+C00524,Cliente 00524,GT,Guatemala,Guatemala City,Small Business,2024-01-16,Platino
+C00525,Cliente 00525,HN,Honduras,San Pedro Sula,Consumer,2025-01-04,Oro
+C00526,Cliente 00526,GT,Guatemala,Quetzaltenango,Corporate,2024-03-12,Oro
+C00527,Cliente 00527,SV,El Salvador,San Salvador,Small Business,2022-05-31,Bronce
+C00528,Cliente 00528,GT,Guatemala,Quetzaltenango,Small Business,2020-01-09,Plata
+C00529,Cliente 00529,HN,Honduras,San Pedro Sula,Consumer,2022-05-09,Oro
+C00530,Cliente 00530,GT,Guatemala,Guatemala City,Education,2024-01-27,Plata
+C00531,Cliente 00531,SV,El Salvador,Santa Ana,Consumer,2020-07-26,Bronce
+C00532,Cliente 00532,SV,El Salvador,San Salvador,Small Business,2020-06-19,Plata
+C00533,Cliente 00533,NI,Nicaragua,León,Consumer,2025-07-13,Oro
+C00534,Cliente 00534,SV,El Salvador,San Salvador,Consumer,2021-03-20,Platino
+C00535,Cliente 00535,GT,Guatemala,Guatemala City,Corporate,2020-05-16,Bronce
+C00536,Cliente 00536,NI,Nicaragua,Managua,Small Business,2025-06-08,Platino
+C00537,Cliente 00537,NI,Nicaragua,León,Consumer,2023-04-17,Platino
+C00538,Cliente 00538,GT,Guatemala,Quetzaltenango,Small Business,2021-02-05,Oro
+C00539,Cliente 00539,HN,Honduras,San Pedro Sula,Small Business,2019-05-22,Plata
+C00540,Cliente 00540,HN,Honduras,San Pedro Sula,Education,2025-03-05,Platino
+C00541,Cliente 00541,SV,El Salvador,San Salvador,Corporate,2023-04-18,Plata
+C00542,Cliente 00542,NI,Nicaragua,Managua,Small Business,2025-02-04,Bronce
+C00543,Cliente 00543,NI,Nicaragua,Masaya,Corporate,2024-05-18,Platino
+C00544,Cliente 00544,HN,Honduras,La Ceiba,Corporate,2023-05-10,Oro
+C00545,Cliente 00545,GT,Guatemala,Guatemala City,Corporate,2025-09-11,Plata
+C00546,Cliente 00546,SV,El Salvador,Santa Ana,Consumer,2024-04-16,Oro
+C00547,Cliente 00547,CR,Costa Rica,San José,Small Business,2020-02-15,Plata
+C00548,Cliente 00548,GT,Guatemala,Quetzaltenango,Consumer,2021-06-17,Platino
+C00549,Cliente 00549,HN,Honduras,Tegucigalpa,Small Business,2021-08-26,Oro
+C00550,Cliente 00550,HN,Honduras,La Ceiba,Consumer,2022-12-11,Plata
+C00551,Cliente 00551,CR,Costa Rica,San José,Education,2025-01-29,Oro
+C00552,Cliente 00552,GT,Guatemala,Quetzaltenango,Consumer,2020-01-05,Bronce
+C00553,Cliente 00553,GT,Guatemala,Escuintla,Small Business,2019-03-23,Platino
+C00554,Cliente 00554,SV,El Salvador,Santa Ana,Small Business,2020-06-18,Oro
+C00555,Cliente 00555,GT,Guatemala,Quetzaltenango,Consumer,2019-03-31,Plata
+C00556,Cliente 00556,CR,Costa Rica,Cartago,Small Business,2020-03-30,Oro
+C00557,Cliente 00557,SV,El Salvador,Santa Ana,Education,2025-07-28,Bronce
+C00558,Cliente 00558,HN,Honduras,San Pedro Sula,Corporate,2020-07-12,Plata
+C00559,Cliente 00559,NI,Nicaragua,Masaya,Education,2022-07-23,Plata
+C00560,Cliente 00560,CR,Costa Rica,Cartago,Corporate,2021-07-03,Plata
+C00561,Cliente 00561,NI,Nicaragua,León,Corporate,2020-06-05,Plata
+C00562,Cliente 00562,SV,El Salvador,San Miguel,Education,2025-05-13,Bronce
+C00563,Cliente 00563,GT,Guatemala,Escuintla,Corporate,2021-06-23,Bronce
+C00564,Cliente 00564,NI,Nicaragua,Managua,Corporate,2019-11-15,Plata
+C00565,Cliente 00565,HN,Honduras,San Pedro Sula,Small Business,2019-12-30,Oro
+C00566,Cliente 00566,NI,Nicaragua,Managua,Corporate,2021-05-08,Plata
+C00567,Cliente 00567,SV,El Salvador,Santa Ana,Corporate,2020-03-18,Bronce
+C00568,Cliente 00568,SV,El Salvador,Santa Ana,Education,2023-09-15,Plata
+C00569,Cliente 00569,NI,Nicaragua,León,Education,2022-12-09,Platino
+C00570,Cliente 00570,SV,El Salvador,Santa Ana,Small Business,2020-10-28,Platino
+C00571,Cliente 00571,SV,El Salvador,San Salvador,Corporate,2019-03-24,Oro
+C00572,Cliente 00572,HN,Honduras,Tegucigalpa,Consumer,2022-11-01,Plata
+C00573,Cliente 00573,NI,Nicaragua,Managua,Consumer,2025-02-18,Bronce
+C00574,Cliente 00574,HN,Honduras,La Ceiba,Education,2019-05-07,Platino
+C00575,Cliente 00575,GT,Guatemala,Escuintla,Education,2020-10-05,Bronce
+C00576,Cliente 00576,SV,El Salvador,Santa Ana,Small Business,2021-02-17,Platino
+C00577,Cliente 00577,CR,Costa Rica,Cartago,Corporate,2022-02-27,Oro
+C00578,Cliente 00578,GT,Guatemala,Guatemala City,Consumer,2023-05-29,Platino
+C00579,Cliente 00579,GT,Guatemala,Guatemala City,Corporate,2019-01-16,Platino
+C00580,Cliente 00580,SV,El Salvador,Santa Ana,Education,2021-03-28,Bronce
+C00581,Cliente 00581,SV,El Salvador,San Salvador,Small Business,2022-04-10,Bronce
+C00582,Cliente 00582,NI,Nicaragua,Managua,Corporate,2023-06-17,Platino
+C00583,Cliente 00583,NI,Nicaragua,Masaya,Corporate,2020-01-09,Platino
+C00584,Cliente 00584,GT,Guatemala,Quetzaltenango,Education,2023-02-22,Plata
+C00585,Cliente 00585,NI,Nicaragua,Managua,Corporate,2023-12-07,Platino
+C00586,Cliente 00586,HN,Honduras,Tegucigalpa,Corporate,2025-04-30,Bronce
+C00587,Cliente 00587,GT,Guatemala,Escuintla,Consumer,2019-12-18,Oro
+C00588,Cliente 00588,CR,Costa Rica,Alajuela,Small Business,2025-03-17,Bronce
+C00589,Cliente 00589,NI,Nicaragua,Masaya,Education,2025-01-02,Platino
+C00590,Cliente 00590,CR,Costa Rica,San José,Education,2022-05-09,Bronce
+C00591,Cliente 00591,NI,Nicaragua,Masaya,Consumer,2024-08-18,Plata
+C00592,Cliente 00592,SV,El Salvador,Santa Ana,Small Business,2020-11-15,Plata
+C00593,Cliente 00593,GT,Guatemala,Guatemala City,Consumer,2023-10-01,Bronce
+C00594,Cliente 00594,NI,Nicaragua,Managua,Small Business,2025-09-03,Oro
+C00595,Cliente 00595,HN,Honduras,La Ceiba,Consumer,2019-12-23,Platino
+C00596,Cliente 00596,CR,Costa Rica,Alajuela,Corporate,2022-02-05,Platino
+C00597,Cliente 00597,SV,El Salvador,San Miguel,Education,2020-04-05,Platino
+C00598,Cliente 00598,GT,Guatemala,Guatemala City,Consumer,2020-03-08,Bronce
+C00599,Cliente 00599,HN,Honduras,La Ceiba,Corporate,2023-08-11,Oro
+C00600,Cliente 00600,NI,Nicaragua,Masaya,Education,2025-06-01,Platino
+C00601,Cliente 00601,SV,El Salvador,San Salvador,Corporate,2023-07-09,Plata
+C00602,Cliente 00602,CR,Costa Rica,Cartago,Education,2019-06-08,Platino
+C00603,Cliente 00603,HN,Honduras,La Ceiba,Small Business,2019-07-21,Platino
+C00604,Cliente 00604,HN,Honduras,San Pedro Sula,Consumer,2022-10-15,Oro
+C00605,Cliente 00605,HN,Honduras,San Pedro Sula,Education,2020-02-07,Plata
+C00606,Cliente 00606,GT,Guatemala,Quetzaltenango,Education,2022-08-07,Oro
+C00607,Cliente 00607,NI,Nicaragua,Masaya,Consumer,2021-02-08,Platino
+C00608,Cliente 00608,GT,Guatemala,Quetzaltenango,Education,2024-10-16,Oro
+C00609,Cliente 00609,SV,El Salvador,San Miguel,Small Business,2019-09-26,Oro
+C00610,Cliente 00610,CR,Costa Rica,Alajuela,Small Business,2024-11-17,Bronce
+C00611,Cliente 00611,GT,Guatemala,Guatemala City,Small Business,2019-08-25,Plata
+C00612,Cliente 00612,SV,El Salvador,Santa Ana,Consumer,2023-01-16,Plata
+C00613,Cliente 00613,HN,Honduras,San Pedro Sula,Education,2024-08-30,Platino
+C00614,Cliente 00614,SV,El Salvador,San Miguel,Consumer,2021-09-17,Oro
+C00615,Cliente 00615,NI,Nicaragua,Masaya,Education,2020-12-28,Platino
+C00616,Cliente 00616,CR,Costa Rica,Cartago,Corporate,2022-11-11,Plata
+C00617,Cliente 00617,HN,Honduras,La Ceiba,Consumer,2022-03-13,Bronce
+C00618,Cliente 00618,NI,Nicaragua,Managua,Small Business,2025-06-01,Plata
+C00619,Cliente 00619,GT,Guatemala,Escuintla,Small Business,2021-04-26,Oro
+C00620,Cliente 00620,NI,Nicaragua,Masaya,Consumer,2019-02-06,Platino
+C00621,Cliente 00621,GT,Guatemala,Escuintla,Small Business,2025-09-28,Bronce
+C00622,Cliente 00622,GT,Guatemala,Quetzaltenango,Corporate,2022-02-01,Platino
+C00623,Cliente 00623,NI,Nicaragua,León,Education,2021-10-29,Plata
+C00624,Cliente 00624,NI,Nicaragua,León,Education,2025-07-22,Bronce
+C00625,Cliente 00625,SV,El Salvador,San Miguel,Corporate,2025-04-18,Oro
+C00626,Cliente 00626,HN,Honduras,La Ceiba,Consumer,2024-05-27,Bronce
+C00627,Cliente 00627,HN,Honduras,San Pedro Sula,Corporate,2022-02-08,Oro
+C00628,Cliente 00628,HN,Honduras,Tegucigalpa,Small Business,2024-10-19,Plata
+C00629,Cliente 00629,SV,El Salvador,San Miguel,Education,2022-08-02,Plata
+C00630,Cliente 00630,SV,El Salvador,San Miguel,Education,2022-04-25,Oro
+C00631,Cliente 00631,NI,Nicaragua,León,Education,2019-05-25,Plata
+C00632,Cliente 00632,HN,Honduras,La Ceiba,Small Business,2024-12-29,Platino
+C00633,Cliente 00633,HN,Honduras,La Ceiba,Corporate,2020-11-27,Plata
+C00634,Cliente 00634,HN,Honduras,Tegucigalpa,Education,2020-06-08,Oro
+C00635,Cliente 00635,CR,Costa Rica,San José,Corporate,2020-01-01,Plata
+C00636,Cliente 00636,HN,Honduras,Tegucigalpa,Corporate,2023-09-19,Oro
+C00637,Cliente 00637,HN,Honduras,San Pedro Sula,Corporate,2024-03-14,Bronce
+C00638,Cliente 00638,NI,Nicaragua,Managua,Consumer,2024-04-18,Plata
+C00639,Cliente 00639,CR,Costa Rica,San José,Education,2024-12-10,Oro
+C00640,Cliente 00640,NI,Nicaragua,Managua,Small Business,2020-07-16,Plata
+C00641,Cliente 00641,HN,Honduras,San Pedro Sula,Education,2020-08-09,Oro
+C00642,Cliente 00642,GT,Guatemala,Guatemala City,Education,2022-09-24,Plata
+C00643,Cliente 00643,HN,Honduras,La Ceiba,Consumer,2019-01-20,Platino
+C00644,Cliente 00644,HN,Honduras,Tegucigalpa,Small Business,2025-06-18,Plata
+C00645,Cliente 00645,NI,Nicaragua,Managua,Small Business,2023-11-12,Platino
+C00646,Cliente 00646,NI,Nicaragua,León,Education,2023-04-20,Bronce
+C00647,Cliente 00647,SV,El Salvador,San Miguel,Small Business,2023-03-09,Bronce
+C00648,Cliente 00648,HN,Honduras,La Ceiba,Small Business,2019-03-15,Bronce
+C00649,Cliente 00649,GT,Guatemala,Guatemala City,Corporate,2022-07-02,Plata
+C00650,Cliente 00650,SV,El Salvador,Santa Ana,Corporate,2020-11-15,Bronce
+C00651,Cliente 00651,SV,El Salvador,Santa Ana,Corporate,2024-02-11,Oro
+C00652,Cliente 00652,NI,Nicaragua,Masaya,Small Business,2022-11-04,Platino
+C00653,Cliente 00653,HN,Honduras,Tegucigalpa,Small Business,2023-07-11,Bronce
+C00654,Cliente 00654,GT,Guatemala,Guatemala City,Small Business,2021-05-15,Bronce
+C00655,Cliente 00655,CR,Costa Rica,Cartago,Small Business,2020-05-19,Oro
+C00656,Cliente 00656,SV,El Salvador,Santa Ana,Corporate,2024-12-30,Bronce
+C00657,Cliente 00657,CR,Costa Rica,San José,Consumer,2019-03-22,Bronce
+C00658,Cliente 00658,SV,El Salvador,Santa Ana,Education,2023-04-07,Bronce
+C00659,Cliente 00659,CR,Costa Rica,Alajuela,Education,2020-09-19,Plata
+C00660,Cliente 00660,SV,El Salvador,Santa Ana,Education,2020-02-18,Oro
+C00661,Cliente 00661,CR,Costa Rica,Cartago,Small Business,2023-09-12,Bronce
+C00662,Cliente 00662,CR,Costa Rica,Cartago,Consumer,2022-03-03,Bronce
+C00663,Cliente 00663,SV,El Salvador,Santa Ana,Small Business,2025-10-30,Plata
+C00664,Cliente 00664,HN,Honduras,La Ceiba,Small Business,2023-01-06,Platino
+C00665,Cliente 00665,HN,Honduras,Tegucigalpa,Consumer,2025-02-23,Platino
+C00666,Cliente 00666,GT,Guatemala,Escuintla,Education,2022-09-16,Plata
+C00667,Cliente 00667,SV,El Salvador,San Salvador,Consumer,2020-03-28,Platino
+C00668,Cliente 00668,GT,Guatemala,Guatemala City,Consumer,2020-02-19,Oro
+C00669,Cliente 00669,GT,Guatemala,Quetzaltenango,Corporate,2021-12-17,Platino
+C00670,Cliente 00670,SV,El Salvador,San Salvador,Small Business,2019-06-11,Oro
+C00671,Cliente 00671,HN,Honduras,La Ceiba,Corporate,2023-10-11,Bronce
+C00672,Cliente 00672,SV,El Salvador,San Salvador,Consumer,2020-07-20,Plata
+C00673,Cliente 00673,HN,Honduras,San Pedro Sula,Education,2022-01-03,Bronce
+C00674,Cliente 00674,HN,Honduras,San Pedro Sula,Small Business,2020-04-11,Platino
+C00675,Cliente 00675,NI,Nicaragua,León,Corporate,2023-04-29,Platino
+C00676,Cliente 00676,NI,Nicaragua,Masaya,Small Business,2020-04-08,Plata
+C00677,Cliente 00677,SV,El Salvador,San Salvador,Consumer,2023-09-01,Platino
+C00678,Cliente 00678,CR,Costa Rica,Cartago,Education,2021-01-12,Platino
+C00679,Cliente 00679,HN,Honduras,La Ceiba,Consumer,2020-06-19,Platino
+C00680,Cliente 00680,NI,Nicaragua,Managua,Education,2023-12-11,Bronce
+C00681,Cliente 00681,SV,El Salvador,Santa Ana,Corporate,2019-02-20,Plata
+C00682,Cliente 00682,HN,Honduras,La Ceiba,Consumer,2023-11-08,Plata
+C00683,Cliente 00683,NI,Nicaragua,León,Education,2020-08-31,Bronce
+C00684,Cliente 00684,SV,El Salvador,San Miguel,Small Business,2024-09-01,Platino
+C00685,Cliente 00685,NI,Nicaragua,Managua,Consumer,2024-07-06,Oro
+C00686,Cliente 00686,GT,Guatemala,Quetzaltenango,Corporate,2019-07-26,Plata
+C00687,Cliente 00687,CR,Costa Rica,Cartago,Education,2023-07-10,Plata
+C00688,Cliente 00688,SV,El Salvador,Santa Ana,Education,2025-06-05,Platino
+C00689,Cliente 00689,SV,El Salvador,Santa Ana,Education,2022-07-18,Bronce
+C00690,Cliente 00690,NI,Nicaragua,Masaya,Consumer,2020-02-25,Platino
+C00691,Cliente 00691,NI,Nicaragua,Managua,Consumer,2020-01-08,Oro
+C00692,Cliente 00692,CR,Costa Rica,Cartago,Small Business,2024-02-12,Oro
+C00693,Cliente 00693,HN,Honduras,Tegucigalpa,Small Business,2024-02-05,Oro
+C00694,Cliente 00694,CR,Costa Rica,Cartago,Education,2023-01-28,Platino
+C00695,Cliente 00695,SV,El Salvador,San Salvador,Small Business,2019-01-09,Oro
+C00696,Cliente 00696,HN,Honduras,La Ceiba,Corporate,2025-02-21,Oro
+C00697,Cliente 00697,SV,El Salvador,San Salvador,Small Business,2024-07-09,Plata
+C00698,Cliente 00698,NI,Nicaragua,Managua,Corporate,2021-03-13,Plata
+C00699,Cliente 00699,SV,El Salvador,Santa Ana,Small Business,2024-02-16,Plata
+C00700,Cliente 00700,HN,Honduras,Tegucigalpa,Education,2019-07-10,Bronce
+C00701,Cliente 00701,NI,Nicaragua,León,Small Business,2024-08-05,Bronce
+C00702,Cliente 00702,CR,Costa Rica,Cartago,Consumer,2025-03-16,Platino
+C00703,Cliente 00703,CR,Costa Rica,Alajuela,Small Business,2025-06-27,Plata
+C00704,Cliente 00704,GT,Guatemala,Guatemala City,Education,2025-09-25,Oro
+C00705,Cliente 00705,CR,Costa Rica,Alajuela,Education,2025-10-30,Plata
+C00706,Cliente 00706,HN,Honduras,San Pedro Sula,Corporate,2022-04-19,Platino
+C00707,Cliente 00707,GT,Guatemala,Guatemala City,Education,2025-10-03,Oro
+C00708,Cliente 00708,CR,Costa Rica,Alajuela,Small Business,2021-04-02,Plata
+C00709,Cliente 00709,CR,Costa Rica,Cartago,Corporate,2022-11-15,Plata
+C00710,Cliente 00710,GT,Guatemala,Escuintla,Corporate,2020-04-17,Oro
+C00711,Cliente 00711,CR,Costa Rica,Alajuela,Education,2024-12-26,Oro
+C00712,Cliente 00712,NI,Nicaragua,Managua,Consumer,2019-04-14,Platino
+C00713,Cliente 00713,GT,Guatemala,Guatemala City,Consumer,2021-03-29,Oro
+C00714,Cliente 00714,GT,Guatemala,Quetzaltenango,Corporate,2020-08-22,Bronce
+C00715,Cliente 00715,HN,Honduras,Tegucigalpa,Consumer,2023-01-09,Platino
+C00716,Cliente 00716,SV,El Salvador,San Miguel,Small Business,2025-04-17,Platino
+C00717,Cliente 00717,GT,Guatemala,Escuintla,Corporate,2019-07-12,Platino
+C00718,Cliente 00718,NI,Nicaragua,León,Corporate,2025-03-11,Bronce
+C00719,Cliente 00719,SV,El Salvador,San Miguel,Corporate,2021-04-11,Platino
+C00720,Cliente 00720,GT,Guatemala,Escuintla,Corporate,2025-08-07,Plata
+C00721,Cliente 00721,GT,Guatemala,Quetzaltenango,Education,2020-12-27,Bronce
+C00722,Cliente 00722,GT,Guatemala,Guatemala City,Consumer,2023-03-26,Bronce
+C00723,Cliente 00723,NI,Nicaragua,León,Corporate,2020-06-16,Plata
+C00724,Cliente 00724,CR,Costa Rica,Alajuela,Consumer,2022-09-15,Platino
+C00725,Cliente 00725,GT,Guatemala,Guatemala City,Small Business,2022-08-14,Bronce
+C00726,Cliente 00726,CR,Costa Rica,Cartago,Corporate,2024-07-02,Oro
+C00727,Cliente 00727,SV,El Salvador,San Miguel,Corporate,2024-11-22,Plata
+C00728,Cliente 00728,GT,Guatemala,Escuintla,Consumer,2024-08-31,Plata
+C00729,Cliente 00729,NI,Nicaragua,Masaya,Education,2020-01-12,Oro
+C00730,Cliente 00730,GT,Guatemala,Guatemala City,Corporate,2022-09-18,Oro
+C00731,Cliente 00731,HN,Honduras,Tegucigalpa,Education,2025-04-18,Bronce
+C00732,Cliente 00732,SV,El Salvador,San Miguel,Corporate,2023-12-31,Plata
+C00733,Cliente 00733,CR,Costa Rica,Cartago,Small Business,2019-06-13,Oro
+C00734,Cliente 00734,NI,Nicaragua,Managua,Education,2021-11-16,Oro
+C00735,Cliente 00735,SV,El Salvador,San Miguel,Corporate,2024-10-07,Platino
+C00736,Cliente 00736,NI,Nicaragua,Managua,Corporate,2021-02-27,Oro
+C00737,Cliente 00737,CR,Costa Rica,San José,Consumer,2020-11-16,Bronce
+C00738,Cliente 00738,SV,El Salvador,San Salvador,Small Business,2023-10-04,Bronce
+C00739,Cliente 00739,GT,Guatemala,Escuintla,Education,2019-10-23,Plata
+C00740,Cliente 00740,SV,El Salvador,Santa Ana,Corporate,2019-06-05,Bronce
+C00741,Cliente 00741,SV,El Salvador,San Salvador,Small Business,2021-10-28,Bronce
+C00742,Cliente 00742,CR,Costa Rica,San José,Corporate,2023-07-28,Platino
+C00743,Cliente 00743,NI,Nicaragua,Masaya,Education,2023-11-09,Oro
+C00744,Cliente 00744,SV,El Salvador,Santa Ana,Consumer,2024-12-30,Bronce
+C00745,Cliente 00745,CR,Costa Rica,San José,Consumer,2019-10-25,Oro
+C00746,Cliente 00746,CR,Costa Rica,San José,Corporate,2022-05-19,Bronce
+C00747,Cliente 00747,HN,Honduras,San Pedro Sula,Education,2023-06-07,Bronce
+C00748,Cliente 00748,NI,Nicaragua,Managua,Small Business,2020-07-12,Platino
+C00749,Cliente 00749,CR,Costa Rica,Alajuela,Small Business,2022-05-05,Oro
+C00750,Cliente 00750,SV,El Salvador,San Miguel,Small Business,2020-05-19,Bronce
+C00751,Cliente 00751,SV,El Salvador,San Miguel,Education,2025-01-09,Bronce
+C00752,Cliente 00752,HN,Honduras,Tegucigalpa,Corporate,2021-05-17,Platino
+C00753,Cliente 00753,CR,Costa Rica,San José,Small Business,2021-01-23,Plata
+C00754,Cliente 00754,CR,Costa Rica,Alajuela,Small Business,2020-04-14,Plata
+C00755,Cliente 00755,CR,Costa Rica,San José,Education,2025-03-01,Bronce
+C00756,Cliente 00756,HN,Honduras,La Ceiba,Consumer,2021-10-23,Bronce
+C00757,Cliente 00757,GT,Guatemala,Escuintla,Education,2022-09-17,Oro
+C00758,Cliente 00758,GT,Guatemala,Escuintla,Small Business,2020-02-14,Oro
+C00759,Cliente 00759,CR,Costa Rica,San José,Small Business,2022-07-25,Platino
+C00760,Cliente 00760,NI,Nicaragua,León,Corporate,2025-07-20,Plata
+C00761,Cliente 00761,CR,Costa Rica,Cartago,Corporate,2022-07-19,Platino
+C00762,Cliente 00762,GT,Guatemala,Guatemala City,Corporate,2021-10-05,Plata
+C00763,Cliente 00763,NI,Nicaragua,León,Corporate,2020-07-04,Oro
+C00764,Cliente 00764,NI,Nicaragua,León,Education,2023-01-09,Oro
+C00765,Cliente 00765,NI,Nicaragua,Masaya,Consumer,2020-12-20,Bronce
+C00766,Cliente 00766,HN,Honduras,Tegucigalpa,Small Business,2021-12-14,Bronce
+C00767,Cliente 00767,SV,El Salvador,San Salvador,Consumer,2025-07-11,Platino
+C00768,Cliente 00768,CR,Costa Rica,San José,Consumer,2025-03-09,Oro
+C00769,Cliente 00769,CR,Costa Rica,Cartago,Education,2020-08-31,Oro
+C00770,Cliente 00770,NI,Nicaragua,Managua,Corporate,2020-07-02,Platino
+C00771,Cliente 00771,CR,Costa Rica,Cartago,Consumer,2023-06-14,Oro
+C00772,Cliente 00772,CR,Costa Rica,San José,Small Business,2020-11-10,Plata
+C00773,Cliente 00773,NI,Nicaragua,Managua,Small Business,2025-05-08,Plata
+C00774,Cliente 00774,NI,Nicaragua,León,Consumer,2021-06-15,Platino
+C00775,Cliente 00775,GT,Guatemala,Guatemala City,Corporate,2023-02-22,Plata
+C00776,Cliente 00776,SV,El Salvador,San Miguel,Small Business,2024-10-22,Oro
+C00777,Cliente 00777,NI,Nicaragua,León,Education,2019-07-10,Bronce
+C00778,Cliente 00778,HN,Honduras,Tegucigalpa,Corporate,2021-12-14,Plata
+C00779,Cliente 00779,NI,Nicaragua,Masaya,Education,2023-02-05,Bronce
+C00780,Cliente 00780,CR,Costa Rica,Alajuela,Education,2021-07-01,Platino
+C00781,Cliente 00781,HN,Honduras,San Pedro Sula,Education,2024-05-28,Bronce
+C00782,Cliente 00782,CR,Costa Rica,San José,Education,2020-11-09,Plata
+C00783,Cliente 00783,SV,El Salvador,San Miguel,Corporate,2021-05-16,Plata
+C00784,Cliente 00784,GT,Guatemala,Guatemala City,Corporate,2025-10-01,Bronce
+C00785,Cliente 00785,GT,Guatemala,Quetzaltenango,Corporate,2020-04-09,Platino
+C00786,Cliente 00786,NI,Nicaragua,León,Small Business,2025-08-16,Plata
+C00787,Cliente 00787,NI,Nicaragua,Managua,Small Business,2019-06-26,Plata
+C00788,Cliente 00788,CR,Costa Rica,Cartago,Small Business,2020-07-05,Bronce
+C00789,Cliente 00789,CR,Costa Rica,San José,Consumer,2020-11-12,Oro
+C00790,Cliente 00790,GT,Guatemala,Escuintla,Education,2025-09-20,Bronce
+C00791,Cliente 00791,HN,Honduras,Tegucigalpa,Small Business,2024-01-14,Platino
+C00792,Cliente 00792,NI,Nicaragua,Managua,Small Business,2023-08-10,Plata
+C00793,Cliente 00793,CR,Costa Rica,San José,Corporate,2020-11-17,Oro
+C00794,Cliente 00794,NI,Nicaragua,Masaya,Consumer,2021-07-30,Platino
+C00795,Cliente 00795,NI,Nicaragua,Managua,Consumer,2019-03-09,Plata
+C00796,Cliente 00796,CR,Costa Rica,Cartago,Education,2020-09-04,Bronce
+C00797,Cliente 00797,GT,Guatemala,Quetzaltenango,Consumer,2024-12-16,Bronce
+C00798,Cliente 00798,SV,El Salvador,Santa Ana,Small Business,2025-10-07,Bronce
+C00799,Cliente 00799,NI,Nicaragua,Masaya,Education,2023-02-26,Bronce
+C00800,Cliente 00800,CR,Costa Rica,Alajuela,Small Business,2024-05-28,Platino
